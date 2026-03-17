@@ -283,7 +283,11 @@ export default App;
 
 
 
-## OUTPUT
+## OUTPUT:
+<img width="1916" height="1004" alt="image" src="https://github.com/user-attachments/assets/6982d678-734c-40e1-ad0c-dc9c34c8ac77" />
+<img width="1917" height="870" alt="image" src="https://github.com/user-attachments/assets/0e8f6cc4-1715-4842-9577-648753bdd090" />
+
+
 
 
 
